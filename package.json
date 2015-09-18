@@ -1,0 +1,27 @@
+{
+  "name": "estrutura-dados",
+  "version": "1.0.0",
+  "description": "Algoritmos de Estrutura de Dados",
+  "main": "app.js",
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:YuriSS/estruturaDados.git"
+  },
+  "keywords": [
+    "estrutura",
+    "dados",
+    "lifo",
+    "fifo"
+  ],
+  "author": "YuriSS https://github.com/YuriSS",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/YuriSS/estruturaDados/issues"
+  },
+  "homepage": "https://github.com/YuriSS/estruturaDados"
+}
